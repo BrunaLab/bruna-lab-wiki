@@ -1,6 +1,10 @@
+# Bruna Lab Wiki
+
 # [Hugo Documentation Theme](https://github.com/wowchemy/hugo-documentation-theme)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+
+
 
 The **Documentation** starter template empowers you to easily create **product documentation**, **digital books**, **personal notes**, and **knowledge bases**.
 
